@@ -1,0 +1,31 @@
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.exe.config
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.exe
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.pdb
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.xml
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Guna.UI2.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.vbprojResolveAssemblyReference.cache
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Form1.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Resources.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.vbproj.GenerateResource.Cache
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.exe
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.xml
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.pdb
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MySql.Data.DLL
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.mainfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.manageuserfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managecustomer.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.manageProduct.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.groupfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.uomfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managestock.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.stockadjustmentfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundfm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.outboundfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.searchfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managestockReport.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.frmoutbound.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundsearchfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundReport.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Dashboardfrm.resources
